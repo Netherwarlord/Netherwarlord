@@ -55,9 +55,20 @@ Here are some of the key technologies I work with daily.
 
 📫 Let's Connect!
 
+I'm always open to discussing technology, projects, or potential opportunities. Feel free to reach out!
+
 <p align="center">
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+<a href="https://www.linkedin.com/in/christopher-clendening-92192932a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://discordapp.com/users/.crysisaverted" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://infernalaquatics.com" target="_blank">
+<img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
 </a>
 </p>
 
