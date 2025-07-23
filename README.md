@@ -57,6 +57,8 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Reverse Proxy"/>
 <img src="https://img.shields.io/badge/Pi--hole-960606?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-Hole DNS"/>
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 </br>
 </br>
