@@ -44,7 +44,6 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
 </p>
-<br/>
 <!-- Virtualization & Containers -->
 <h4 align="center">Virtualization, Networking & Services</h4>
 <p align="center">
@@ -56,7 +55,6 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Reverse Proxy"/>
 <img src="https://img.shields.io/badge/Pi--hole-960606?style=for-the-badge&logo=pi-hole&logoColor=white" alt="Pi-Hole DNS"/>
 </p>
-<br/>
 
 <!-- Development & Tools -->
 <h4 align="center">Development Tools</h4>
@@ -65,7 +63,6 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-<br/>
 <!-- Programming Languages -->
 <h4 align="center">Programming Languages</h4>
 <p align="center">
