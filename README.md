@@ -8,12 +8,12 @@ I'm a passionate IT professional with a love for building and managing technolog
 </p>
 
 </div>
-<br/>
+</br>
 
 💡 About Me
 
 I believe in practical, hands-on learning. My lab isn't just for show; it's a constantly evolving environment where I manage containerized services with Docker, administer Linux systems, and even run a sophisticated local AI development workflow. I enjoy the challenge of solving complex problems, whether it's migrating a service from Nextcloud to Odoo for better project management or configuring a Samba share to serve as a high-performance game library for my Windows machine.
-<br/>
+</br>
 
 🚀 My Current Learning Journey
 
@@ -25,7 +25,7 @@ I am committed to continuous improvement and am actively developing a comprehens
 
 💻 Codecademy Pro Career Paths: Full-Stack Engineering & Data Science
 
-<br/>
+</br>
 🛠️ My Tech Stack & Tools
 
 Here are some of the key technologies I work with daily.
@@ -48,7 +48,7 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-<br/>
+</br>
 
 📊 My GitHub Stats
 
@@ -56,7 +56,7 @@ Here are some of the key technologies I work with daily.
 <img src="https://github-readme-stats.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<br/>
+</br>
 
 📫 Let's Connect!
 
