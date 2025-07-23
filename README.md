@@ -63,7 +63,7 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-304494?style=for-the-badge&logo=intellijidea&logoColor=white" alt="InteliJ"/>
-<img src="https://img.shields.io/badge/PyCharm-00D05C?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm"/>
+<img src="https://img.shields.io/badge/PyCharm-F7DF1E?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm"/>
 </p>
 <!-- Programming Languages -->
 <h4 align="center">Programming Languages</h4>
@@ -75,7 +75,7 @@ Here are some of the key technologies I work with daily.
 <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 </br>
