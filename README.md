@@ -8,7 +8,7 @@ I'm a passionate IT professional with a love for building and managing technolog
 </p>
 
 </div>
-
+<br/>
 💡 About Me
 
 I believe in practical, hands-on learning. My lab isn't just for show; it's a constantly evolving environment where I manage containerized services with Docker, administer Linux systems, and even run a sophisticated local AI development workflow. I enjoy the challenge of solving complex problems, whether it's migrating a service from Nextcloud to Odoo for better project management or configuring a Samba share to serve as a high-performance game library for my Windows machine.
