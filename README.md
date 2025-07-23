@@ -61,6 +61,7 @@ Here are some of the key technologies I work with daily.
 <p align="center">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-304494?style=for-the-badge&logo=intellijidea&logoColor=white" alt="InteliJ"/>
 <img src="https://img.shields.io/badge/PyCharm-F7DF1E?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm"/>
