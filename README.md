@@ -14,7 +14,7 @@ I'm a passionate IT professional with a love for building and managing technolog
 
 💡 About Me
 
-I believe in practical, hands-on learning. My lab isn't just for show; it's a constantly evolving environment where I manage containerized services with Docker, administer Linux systems, and even run a sophisticated local AI development workflow. I enjoy the challenge of solving complex problems, whether it's migrating a service from Nextcloud to Odoo for better project management or configuring a Samba share to serve as a high-performance game library for my Windows machine.
+I believe in practical, hands-on learning. My lab isn't just for show; it's a constantly evolving environment where I manage containerized services with Docker, administer Linux systems, and even run a sophisticated local AI development workflow. I enjoy the challenge of solving complex problems, whether it's migrating a service from Nextcloud to Odoo for better project management or configuring a networked iSCZI drive to serve as a high-performance game library for my Windows machine.
 </br>
 </br>
 </br>
@@ -23,11 +23,9 @@ I believe in practical, hands-on learning. My lab isn't just for show; it's a co
 
 I am committed to continuous improvement and am actively developing a comprehensive, modern skill set. Right now, my focus is on:
 
-🎓 Google IT Professional Certificate
+🎓 Associates of Applied Science - Software Development @ Mid Michigan Community College
 
-☁️ AWS Certified Cloud Practitioner
-
-💻 Codecademy Pro Career Paths: Full-Stack Engineering & Data Science
+💻 Full-Stack Engineering & Data Science @ Codecademy Pro
 
 </br>
 </br>
@@ -101,7 +99,7 @@ I'm always open to discussing technology, projects, or potential opportunities. 
 <a href="https://www.linkedin.com/in/christopher-clendening-92192932a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+<a href="mailto:christopher@infernalaquatics.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://discordapp.com/users/.crysisaverted" target="_blank">
