@@ -74,17 +74,17 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true" alt="Christopher's GitHub stats"/>
+      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Christopher's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical" alt="Top Langs"/>
+      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark" alt="Github Streaks"/>
 
 
 </div>
