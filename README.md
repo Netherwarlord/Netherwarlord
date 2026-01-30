@@ -77,9 +77,6 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 
-
-<img src="https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark"/>
-
 </div>
 
 </br>
