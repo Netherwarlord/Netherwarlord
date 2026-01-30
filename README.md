@@ -84,8 +84,6 @@ These are a few of the systems, services, tools, and languages i use on a daily 
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark" alt="Github Streaks"/>
-
 </div>
 
 </br>
