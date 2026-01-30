@@ -71,9 +71,19 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <h3>📊 My GitHub Stats</h3>
 
-![Christopher's GitHub stats](https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark&count_private=true)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true" alt="Christopher's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark)](https://git.io/streak-stats)
+
 </br>
 </br>
 </br>
