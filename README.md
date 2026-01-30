@@ -71,7 +71,7 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <h3>📊 My GitHub Stats</h3>
 
-![Netherwarlord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark)
+![Netherwarlord's GitHub stats](https://github-readme-stats-dgebrqptn.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark)
 
 </br>
 </br>
