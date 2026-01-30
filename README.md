@@ -71,7 +71,9 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <h3>📊 My GitHub Stats</h3>
 
-<table border="0" align="center">
+<div align="center">
+
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Christopher's GitHub stats"/>
@@ -82,10 +84,7 @@ These are a few of the systems, services, tools, and languages i use on a daily 
   </tr>
 </table>
 
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Netherwarlord&theme=dark" alt="Github Streaks"/>
-
 
 </div>
 
