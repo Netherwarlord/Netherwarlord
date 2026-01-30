@@ -73,16 +73,9 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Christopher's GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Christopher's GitHub stats"/>
+
+<img src="https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 
 </div>
 
