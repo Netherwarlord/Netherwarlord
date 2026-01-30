@@ -38,7 +38,7 @@ I am committed to continuous improvement and am actively developing a comprehens
 These are a few of the systems, services, tools, and languages i use on a daily basis.
 </div>
 
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
@@ -71,9 +71,7 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 
 <h3>📊 My GitHub Stats</h3>
 
-<div align="center">
-![Netherwarlord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netherwarlord)
-</div>
+![Netherwarlord's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark)
 
 </br>
 </br>
