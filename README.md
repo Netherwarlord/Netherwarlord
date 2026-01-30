@@ -70,9 +70,13 @@ These are a few of the systems, services, tools, and languages i use on a daily 
 </br>
 
 <h3>📊 My GitHub Stats</h3>
+<p align="center">
 
-![Netherwarlord's GitHub stats](https://github-readme-stats-dgebrqptn.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark)
+![Christopher's GitHub stats](https://github-readme-stats-jay1nq4lh.vercel.app/api?username=Netherwarlord&show_icons=true&theme=dark&count_private=true)
 
+![Top Langs](https://github-readme-stats-jay1nq4lh.vercel.app/api/top-langs/?username=Netherwarlord&layout=compact&theme=dark)
+
+</p>
 </br>
 </br>
 </br>
