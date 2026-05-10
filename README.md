@@ -25,6 +25,7 @@ I believe in practical, hands-on learning. My lab isn't just for show; it's a co
 I am committed to continuous improvement and am actively developing a comprehensive, modern skill set. Right now, my focus is on:
 
 <h4><strong>🎓 Associates of Applied Science - Software Development</Strong> @ <i>Mid Michigan Community College (Full-Time)</i></h4>
+<h5><strong>Semester 1: </strong>3.33 GPA</h5>
 
 <h4><strong>💻 Full-Stack Engineering & Data Science</strong> @ <i>Codecademy Pro (Self-Paced)</i></h4>
 
