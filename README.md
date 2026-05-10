@@ -20,7 +20,7 @@ I believe in practical, hands-on learning. My lab isn't just for show; it's a co
 </br>
 </br>
 <table align="center">
-    <tr><td><h3>🚀 My Current Learning Journey</h3></td></tr>
+    <tr><td colspan="2"><h3>🚀 My Current Learning Journey</h3></td></tr>
     <tr>
         I am committed to continuous improvement and am actively developing a comprehensive, modern skill set. Right now, my focus is on:
     </tr>
