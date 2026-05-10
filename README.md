@@ -19,15 +19,27 @@ I believe in practical, hands-on learning. My lab isn't just for show; it's a co
 </br>
 </br>
 </br>
-
-<h3 align="center">🚀 My Current Learning Journey</h3>
-
-I am committed to continuous improvement and am actively developing a comprehensive, modern skill set. Right now, my focus is on:
-
-<h4><strong>🎓 Associates of Applied Science - Software Development</Strong> @ <i>Mid Michigan Community College (Full-Time)</i></h4>
-<h5><strong>Semester 1: </strong>3.33 GPA</h5>
-
-<h4><strong>💻 Full-Stack Engineering & Data Science</strong> @ <i>Codecademy Pro (Self-Paced)</i></h4>
+<table align="center">
+    <tr><td><h3>🚀 My Current Learning Journey</h3></td></tr>
+    <tr>
+        I am committed to continuous improvement and am actively developing a comprehensive, modern skill set. Right now, my focus is on:
+    </tr>
+    <tr>
+        <td>🎓 Associates of Applied Science - Software Development</br><i>Mid Michigan Community College (Full-Time)</i></td>
+        <td>
+            <ul>
+                <li><strong>Semester 1:</strong> 3.33GPA</li>
+                <li><strong>ENG 111</strong> 93.09% A</li>
+                <li><strong>CIS 170</strong> 95.46% A</li>
+                <li><strong>CIS 155</strong> 93.98% A</li>
+                <li><strong>CIS 100</strong> 67.00% D+</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>💻 Full-Stack Engineering & Data Science</strong></br><i>Codecademy Pro (Self-Paced)</i></td>
+    </tr>
+</table>
 
 </br>
 </br>
